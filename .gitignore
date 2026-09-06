@@ -216,3 +216,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Flask Template Local files
+.env
+.venv/
+instance/
+*.db
+*.sqlite3
